@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <link href="tabela.css" rel="stylesheet" type="text/css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=[device-width], initial-scale=1.0">
+    <title>Mamaco King - Queima de Estoque!</title>
+    <style>
+        body {
+            background-image: url("https://t2.tudocdn.net/605473?w=1920&h=1080");
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center center;
+        }
+    </style>
+</head>
+
+    <h1>Mamaco King - Queima de Estoque!</h1>
+    <table>
+        <tr>
+            <td colspan="5"> PRODUTOS DA MAMACO KING </td>
+        </tr>
+        <tr>
+            <th>Foto do Item</th>
+            <th>Nome do Item</th>
+            <th>Quantidade em estoque</th>
+            <th>Preço Normal</th>
+            <th>Preço Promocional</th>
+        </tr>
+        <tr>
+            <td><img src="https://images-americanas.b2w.io/produtos/3575088453/imagens/caneta-divertida-ponta-fina-macaquinho/3575088453_1_large.jpg" alt="Caneta de Mamaco"></td>
+            <td>Caneta do Mamaco</td>
+            <td>100</td>
+            <td>R$ 0,99</td>
+            <td>R$ 0,49</td>
+        </tr>
+        <tr>
+            <td><img src="https://a-static.mlcdn.com.br/800x560/mochila-infantil-zoo-macaco-orignal-pronta-entrega-escolar-eva-enxovais/evaenxovais/2099870853moc/83b149df560eee516a40ebd5f35f57ca.jpg" alt="Mochila de Mamaco"></td>
+            <td>Mochila do Mamaco</td>
+            <td>20</td>
+            <td>R$ 149,90</td>
+            <td>R$ 99,90</td>
+        </tr>
+        <tr>
+            <td><img src="https://cdn.iset.io/assets/62442/produtos/2264/img-20221218-134715.jpg" alt="Chaveirinho de Mamaco"></td>
+            <td>Chaveirinho do Mamaco</td>
+            <td>50</td>
+            <td>R$ 12,00</td>
+            <td>R$ 7,99</td>
+        </tr>
+        <tr>
+            <td><img src="https://leonora.vteximg.com.br/arquivos/ids/158315/tesoura_escolar_pets_macaco-1.jpg?v=637373643607030000" alt="Tesourinha do Mamaco"></td>
+            <td>Tesourinha do Mamaco</td>
+            <td>30</td>
+            <td>R$ 10,00</td>
+            <td>R$ 6,99</td>
+        </tr>
+        <tr>
+            <td><img src="https://thumbs.dreamstime.com/b/macacos-do-chocolate-na-grama-64005918.jpg" alt="Chocolate de Mamaco"></td>
+            <td>Chocolate do Mamaco</td>
+            <td>15</td>
+            <td>R$ 30,00</td>
+            <td>R$ 20,00</td>
+        </tr>
+        <a href="#" onclick="history.back()"> Voltar a página anterior </a>
